@@ -236,7 +236,11 @@ function renderCart(){
     const itemCart = `
     <div class="food-row">
     <span class="food-name">${title}</span>
+<<<<<<< HEAD
     <strong class="food-price">${cost}</strong>
+=======
+    <strong class="food-price">${cost}₽</strong>
+>>>>>>> 221cbac01a3cf65b177cf95b7ac33af1db5752e8
     <div class="food-counter">
       <button class="counter-button counter-minus" data-id=${id}>-</button>
       <span class="counter">${count}</span>
