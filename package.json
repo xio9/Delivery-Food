@@ -1,0 +1,22 @@
+{
+  "name": "delivery-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xio9/Delivery-Food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xio9/Delivery-Food/issues"
+  },
+  "homepage": "https://github.com/xio9/Delivery-Food#readme",
+  "dependencies": {
+    "sweetalert2": "^10.13.0"
+  }
+}
